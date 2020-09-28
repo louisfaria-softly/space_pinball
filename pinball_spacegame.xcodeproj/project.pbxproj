@@ -15,6 +15,18 @@
 		2E7D6F7D25228393008EE359 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6F7B25228393008EE359 /* LaunchScreen.storyboard */; };
 		2E7D6F8825228393008EE359 /* pinball_spacegameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7D6F8725228393008EE359 /* pinball_spacegameTests.swift */; };
 		2E7D6F9325228393008EE359 /* pinball_spacegameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7D6F9225228393008EE359 /* pinball_spacegameUITests.swift */; };
+		2E7D6FA42522839C008EE359 /* Breaker.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6FA32522839C008EE359 /* Breaker.scnassets */; };
+		2E7D6FAD252283A6008EE359 /* Star1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6FA8252283A6008EE359 /* Star1.png */; };
+		2E7D6FAE252283A6008EE359 /* skin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6FA9252283A6008EE359 /* skin.jpg */; };
+		2E7D6FAF252283A6008EE359 /* Stars copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6FAA252283A6008EE359 /* Stars copy.jpg */; };
+		2E7D6FB0252283A6008EE359 /* Thumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6FAB252283A6008EE359 /* Thumb.jpg */; };
+		2E7D6FB1252283A6008EE359 /* skull.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6FAC252283A6008EE359 /* skull.jpg */; };
+		2E7D6FBE2522857F008EE359 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7D6FBD2522857F008EE359 /* GameViewController.swift */; };
+		2E7D6FC7252285D0008EE359 /* SCNVector3+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7D6FC3252285D0008EE359 /* SCNVector3+Extensions.swift */; };
+		2E7D6FC8252285D0008EE359 /* GameUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7D6FC4252285D0008EE359 /* GameUtils.swift */; };
+		2E7D6FC9252285D0008EE359 /* SCNAction+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7D6FC5252285D0008EE359 /* SCNAction+Extensions.swift */; };
+		2E7D6FCA252285D0008EE359 /* GameHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7D6FC6252285D0008EE359 /* GameHelper.swift */; };
+		2E7D6FD2252286C9008EE359 /* Particle.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E7D6FD1252286C9008EE359 /* Particle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		2E7D6F8E25228393008EE359 /* pinball_spacegameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pinball_spacegameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E7D6F9225228393008EE359 /* pinball_spacegameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pinball_spacegameUITests.swift; sourceTree = "<group>"; };
 		2E7D6F9425228393008EE359 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E7D6FA32522839C008EE359 /* Breaker.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Breaker.scnassets; sourceTree = "<group>"; };
+		2E7D6FA8252283A6008EE359 /* Star1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Star1.png; sourceTree = "<group>"; };
+		2E7D6FA9252283A6008EE359 /* skin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skin.jpg; sourceTree = "<group>"; };
+		2E7D6FAA252283A6008EE359 /* Stars copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Stars copy.jpg"; sourceTree = "<group>"; };
+		2E7D6FAB252283A6008EE359 /* Thumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thumb.jpg; sourceTree = "<group>"; };
+		2E7D6FAC252283A6008EE359 /* skull.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skull.jpg; sourceTree = "<group>"; };
+		2E7D6FBD2522857F008EE359 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		2E7D6FC3252285D0008EE359 /* SCNVector3+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SCNVector3+Extensions.swift"; sourceTree = "<group>"; };
+		2E7D6FC4252285D0008EE359 /* GameUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameUtils.swift; sourceTree = "<group>"; };
+		2E7D6FC5252285D0008EE359 /* SCNAction+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SCNAction+Extensions.swift"; sourceTree = "<group>"; };
+		2E7D6FC6252285D0008EE359 /* GameHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameHelper.swift; sourceTree = "<group>"; };
+		2E7D6FD1252286C9008EE359 /* Particle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Particle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,11 +123,20 @@
 		2E7D6F6F25228391008EE359 /* pinball_spacegame */ = {
 			isa = PBXGroup;
 			children = (
+				2E7D6FC2252285C1008EE359 /* GameUtils */,
+				2E7D6FA32522839C008EE359 /* Breaker.scnassets */,
 				2E7D6F7025228391008EE359 /* AppDelegate.swift */,
 				2E7D6F7225228391008EE359 /* SceneDelegate.swift */,
+				2E7D6FBD2522857F008EE359 /* GameViewController.swift */,
 				2E7D6F7425228391008EE359 /* ViewController.swift */,
 				2E7D6F7625228391008EE359 /* Main.storyboard */,
 				2E7D6F7925228393008EE359 /* Assets.xcassets */,
+				2E7D6FA9252283A6008EE359 /* skin.jpg */,
+				2E7D6FAC252283A6008EE359 /* skull.jpg */,
+				2E7D6FA8252283A6008EE359 /* Star1.png */,
+				2E7D6FAA252283A6008EE359 /* Stars copy.jpg */,
+				2E7D6FD1252286C9008EE359 /* Particle.png */,
+				2E7D6FAB252283A6008EE359 /* Thumb.jpg */,
 				2E7D6F7B25228393008EE359 /* LaunchScreen.storyboard */,
 				2E7D6F7E25228393008EE359 /* Info.plist */,
 			);
@@ -126,6 +159,17 @@
 				2E7D6F9425228393008EE359 /* Info.plist */,
 			);
 			path = pinball_spacegameUITests;
+			sourceTree = "<group>";
+		};
+		2E7D6FC2252285C1008EE359 /* GameUtils */ = {
+			isa = PBXGroup;
+			children = (
+				2E7D6FC6252285D0008EE359 /* GameHelper.swift */,
+				2E7D6FC4252285D0008EE359 /* GameUtils.swift */,
+				2E7D6FC5252285D0008EE359 /* SCNAction+Extensions.swift */,
+				2E7D6FC3252285D0008EE359 /* SCNVector3+Extensions.swift */,
+			);
+			path = GameUtils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +275,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E7D6FB0252283A6008EE359 /* Thumb.jpg in Resources */,
+				2E7D6FB1252283A6008EE359 /* skull.jpg in Resources */,
+				2E7D6FAF252283A6008EE359 /* Stars copy.jpg in Resources */,
 				2E7D6F7D25228393008EE359 /* LaunchScreen.storyboard in Resources */,
 				2E7D6F7A25228393008EE359 /* Assets.xcassets in Resources */,
+				2E7D6FA42522839C008EE359 /* Breaker.scnassets in Resources */,
+				2E7D6FAD252283A6008EE359 /* Star1.png in Resources */,
+				2E7D6FAE252283A6008EE359 /* skin.jpg in Resources */,
 				2E7D6F7825228391008EE359 /* Main.storyboard in Resources */,
+				2E7D6FD2252286C9008EE359 /* Particle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +309,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E7D6FBE2522857F008EE359 /* GameViewController.swift in Sources */,
+				2E7D6FC8252285D0008EE359 /* GameUtils.swift in Sources */,
 				2E7D6F7525228391008EE359 /* ViewController.swift in Sources */,
 				2E7D6F7125228391008EE359 /* AppDelegate.swift in Sources */,
+				2E7D6FC9252285D0008EE359 /* SCNAction+Extensions.swift in Sources */,
+				2E7D6FCA252285D0008EE359 /* GameHelper.swift in Sources */,
 				2E7D6F7325228391008EE359 /* SceneDelegate.swift in Sources */,
+				2E7D6FC7252285D0008EE359 /* SCNVector3+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
